@@ -17,6 +17,6 @@ string time = Console.ReadLine();
 
 
 
-Console.WriteLine("Hola"+ name );
+Console.WriteLine("Hola:"+ name );
 Console.WriteLine("Son las:" + time  +  "horas.");
 
